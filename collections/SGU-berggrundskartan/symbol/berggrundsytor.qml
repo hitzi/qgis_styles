@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="2.18.4" simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+<qgis version="2.18.3" simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
   <edittypes>
     <edittype widgetv2type="TextEdit" name="brg">
       <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
@@ -768,7 +768,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="114,133,132,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -1848,7 +1848,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="114,133,132,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -1923,7 +1923,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="114,133,132,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -2705,29 +2705,5 @@ def my_form_open(dialog, layer, feature):
     <rowstyles/>
     <fieldstyles/>
   </conditionalstyles>
-  <defaults>
-    <default field="brg" expression=""/>
-    <default field="litologi" expression=""/>
-    <default field="lithology" expression=""/>
-    <default field="tekt" expression=""/>
-    <default field="tekt_enhet" expression=""/>
-    <default field="tect_unit" expression=""/>
-    <default field="tekt_under" expression=""/>
-    <default field="underenhet" expression=""/>
-    <default field="subunit" expression=""/>
-    <default field="symbol" expression=""/>
-    <default field="legend" expression=""/>
-    <default field="legend_en" expression=""/>
-    <default field="c" expression=""/>
-    <default field="m" expression=""/>
-    <default field="y" expression=""/>
-    <default field="k" expression=""/>
-    <default field="etikett" expression=""/>
-    <default field="objectid" expression=""/>
-    <default field="shape_leng" expression=""/>
-    <default field="shape_area" expression=""/>
-    <default field="serial" expression=""/>
-    <default field="tk_update" expression=""/>
-  </defaults>
   <layerGeometryType>2</layerGeometryType>
 </qgis>
