@@ -111,7 +111,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="Z"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -130,7 +130,7 @@
       <symbol alpha="1" clip_to_extent="1" type="marker" name="11">
         <layer pass="0" class="FontMarker" locked="0">
           <prop k="angle" v="0"/>
-          <prop k="chr" v="A"/>
+          <prop k="chr" v="H"/>
           <prop k="color" v="0,0,0,255"/>
           <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
@@ -151,7 +151,7 @@
       <symbol alpha="1" clip_to_extent="1" type="marker" name="12">
         <layer pass="0" class="FontMarker" locked="0">
           <prop k="angle" v="0"/>
-          <prop k="chr" v="V"/>
+          <prop k="chr" v="I"/>
           <prop k="color" v="0,0,0,255"/>
           <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
@@ -172,7 +172,7 @@
       <symbol alpha="1" clip_to_extent="1" type="marker" name="13">
         <layer pass="0" class="FontMarker" locked="0">
           <prop k="angle" v="0"/>
-          <prop k="chr" v="C"/>
+          <prop k="chr" v="U"/>
           <prop k="color" v="0,0,0,255"/>
           <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
@@ -195,7 +195,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="A"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -216,7 +216,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="V"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -237,7 +237,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="C"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -318,10 +318,10 @@
       </symbol>
       <symbol alpha="1" clip_to_extent="1" type="marker" name="2">
         <layer pass="0" class="FontMarker" locked="0">
-          <prop k="angle" v="0"/>
-          <prop k="chr" v="Z"/>
+          <prop k="angle" v="270"/>
+          <prop k="chr" v="o"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="GSDSymbolsVagkartan"/>
+          <prop k="font" v="GSDSymbolsTerrängkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -331,7 +331,7 @@
           <prop k="outline_width" v="0"/>
           <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="outline_width_unit" v="MM"/>
-          <prop k="size" v="9"/>
+          <prop k="size" v="8.4"/>
           <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="size_unit" v="Pixel"/>
           <prop k="vertical_anchor_point" v="1"/>
@@ -552,7 +552,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="M"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -594,7 +594,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="h"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -615,7 +615,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="c"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -636,7 +636,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="q"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -657,7 +657,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="k"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -678,7 +678,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="i"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -699,7 +699,7 @@
           <prop k="angle" v="0"/>
           <prop k="chr" v="j"/>
           <prop k="color" v="0,0,0,255"/>
-          <prop k="font" v="Wingdings"/>
+          <prop k="font" v="GSDSymbolsVagkartan"/>
           <prop k="horizontal_anchor_point" v="1"/>
           <prop k="joinstyle" v="miter"/>
           <prop k="offset" v="0,0"/>
@@ -886,10 +886,9 @@
     <multilineenabled fieldname="" on=""/>
     <selectedonly on=""/>
   </labelattributes>
-  <SingleCategoryDiagramRenderer diagramType="Pie" sizeLegend="0" attributeLegend="1">
+  <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
     <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
       <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-      <attribute field="" color="#000000" label=""/>
     </DiagramCategory>
     <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
       <layer pass="0" class="SimpleMarker" locked="0">
@@ -914,7 +913,7 @@
       </layer>
     </symbol>
   </SingleCategoryDiagramRenderer>
-  <DiagramLayerSettings yPosColumn="-1" showColumn="0" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+  <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
   <annotationform>.</annotationform>
   <aliases>
     <alias field="KKOD" index="0" name=""/>
